@@ -1,0 +1,45 @@
+.container-fluid-new .row .form-control {
+  border: none;
+  border-bottom: 2px solid steelblue;
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+
+.form-check-label {
+  color: steelblue;
+}
+.container-fluid-new {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  padding: 0;
+  margin: 0;
+}
+
+.container-fluid-new .row {
+  flex: 1;
+  display: flex;
+}
+
+.container-fluid-new img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.btnn{
+  background-color: steelblue;
+  color: white;
+  border: none;
+  margin-top: 20px;
+
+}
+h3{
+  color: steelblue;
+  margin-top: 90px;
+}
+.success-message{
+  color: steelblue;
+}
